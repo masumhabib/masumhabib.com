@@ -1,5 +1,4 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "K M Masum Habib"
 theme = "ananke"
-destination = "/usr/local/www/nginx/"
