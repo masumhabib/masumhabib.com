@@ -1,7 +1,8 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "K M Masum Habib"
-theme = "minimo"
+#theme = "minimo"
+title = "academia-hugo"
 
 disqusShortname = ""
 googleAnalytics = ""
