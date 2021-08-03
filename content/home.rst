@@ -5,6 +5,7 @@ Welcome!
 :url: /
 :save_as: index.html
 :status: published
+:draft: false
 
 Hi, welcome to my personal website. Here you will find information
 related to my research, publications, projects and much much more. 
