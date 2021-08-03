@@ -6,13 +6,6 @@ title = "K M Masum Habib"
 #theme = "mainroad"
 #theme= "gruvhugo"
 theme = "LoveIt"
-# themes directory
-# 主题目录
-themesDir = "../.."
-
-# website title
-# 网站标题
-title = "LoveIt"
 
 # whether to use robots.txt
 # 是否使用 robots.txt
