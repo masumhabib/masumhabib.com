@@ -5,10 +5,10 @@
 	path = themes/minimo
 	url = https://github.com/MunifTanjim/minimo
 [submodule "gruvhugo"]
-	path = gruvhugo
+	path = themes/gruvhugo
 	url = https://gitlab.com/avron/gruvhugo.git
 [submodule "mainroad"]
-	path = mainroad
+	path = themes/mainroad
 	url = https://github.com/vimux/mainroad
 [submodule "themes/LeaveIt"]
 	path = themes/LeaveIt
